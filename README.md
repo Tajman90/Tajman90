@@ -25,7 +25,7 @@ When I'm not working with data, I enjoy matching and playing football, reading, 
 ## 🔭 Projects
 
 - **Project A:** We analysed the key indicators for Pizza Sales data to gain insight into the business performance. We calculated the following: Total Revenue, Average Order Value, Total Pizza Sold, Total Orders and Average Pizza Sold.
- Performed data cleaning in Excel, data manipulation with SQL, and developed interactive dashboards in Power BI.  
+   Performed data cleaning in Excel, data manipulation with SQL, and developed interactive dashboards in Power BI.  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
