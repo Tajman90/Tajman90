@@ -19,12 +19,12 @@ I also develop clear, dynamic dashboards in Power BI and Tableau that communicat
 
 When I'm not working with data, I enjoy matching and playing football, reading, traveling, mentoring others. I love the "aha!" moment when data reveals something new and useful.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+ <!--🌐 Replace "your-username" with your actual GitHub username -->
+<!--### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)-->
       
-## 🔭 What I'm Currently Working On 
+## 🔭 Projects
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- **Project A:** [We set out to analyse the key indicators for Pizza Sales data to gain insight into the business performance. We calculated the following: Total Revenue, Average Order Value, Total Pizza Sold, Total Orders and Average Pizza Sold. Performed data cleaning in Excel, data manipulation with SQL, and developed interactive dashboards in Power BI."]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
