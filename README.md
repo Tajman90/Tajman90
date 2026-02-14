@@ -31,7 +31,8 @@ When I'm not working with data, I enjoy matching and playing football, reading, 
 
 ## 🌱 Currently Learning 
 
-- [ Using AWS cloud services to handle large-scale data pipelines and infrastructure.]
+- Using AWS cloud platform to handle large-scale data pipelines and infrastructure.
+  Currently learnig how to develope proficiency in AWS cloud services for data engineering, including data storage (S3), data processing (Glue, EMR), and workflow orchestration (Lambda, Step Functions).
 <!-- - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]-->
 
 ## 🛠️ Technical Skillset
