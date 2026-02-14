@@ -27,12 +27,12 @@ When I'm not working with data, I enjoy matching and playing football, reading, 
 - **Project A:** We analysed the key indicators for Pizza Sales data to gain insight into the business performance. We calculated the following: Total Revenue, Average Order Value, Total Pizza Sold, Total Orders and Average Pizza Sold.
    Performed data cleaning in Excel, data manipulation with SQL, and developed interactive dashboards in Power BI.  
 - **Project B:** The project gives us an idea on the impact of Corona Virus globally in terms of confirmed cases, deaths reported, number of recoveries and active cases. It also shows how India was affected since the pandemic started. Performed data cleaning, manipulation, and visualization using Python.
-  - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+ <!-- - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]-->
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [ Using AWS cloud services to handle large-scale data pipelines and infrastructure.]
+<!-- - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]-->
 
 ## 🛠️ Technical Skillset
 
