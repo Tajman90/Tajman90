@@ -60,3 +60,9 @@ When I'm not working with data, I enjoy matching and playing football, reading, 
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+## 🛠️ Professional Experience  
+Audit & Accounting (2008 2015)
+- Performed accurate bank reconciliations, ensuring 100% alignment with internal records.
+- Produced cashbooks, trial balances, and final accounts, reducing month-end close by 30% using advanced Excel.
+- Delivered accurate, client-focused financial reporting.
