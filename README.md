@@ -70,4 +70,4 @@ When I'm not working with data, I enjoy matching and playing football, reading, 
 ### Software & Web Developer (2015 – 2021)
 - Developed multiple websites and collaborated on web applications using PHP and MySQL.
 - Built data-driven application features and improved system performance.
-- Worked with distributed teams using digital tools for planning and deployment
+- Worked with distributed teams using digital tools for planning and deployment.
