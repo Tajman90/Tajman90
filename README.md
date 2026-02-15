@@ -1,4 +1,4 @@
-## Hi there, I'm Tajudeen Omotosho 👋
+## Hi there, I'm Tajudeen Omotosho 
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -61,8 +61,13 @@ When I'm not working with data, I enjoy matching and playing football, reading, 
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
 
-## 🛠️ Professional Experience  
-Audit & Accounting (2008 2015)
+## 👋 Professional Experience  
+#### Audit & Accounting (2008 - 2015)
 - Performed accurate bank reconciliations, ensuring 100% alignment with internal records.
 - Produced cashbooks, trial balances, and final accounts, reducing month-end close by 30% using advanced Excel.
 - Delivered accurate, client-focused financial reporting.
+  
+### Software & Web Developer (2015 – 2021)
+- Developed multiple websites and collaborated on web applications using PHP and MySQL.
+- Built data-driven application features and improved system performance.
+- Worked with distributed teams using digital tools for planning and deployment
