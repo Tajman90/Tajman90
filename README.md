@@ -67,7 +67,7 @@ When I'm not working with data, I enjoy matching and playing football, reading, 
 - Produced cashbooks, trial balances, and final accounts, reducing month-end close by 30% using advanced Excel.
 - Delivered accurate, client-focused financial reporting.
   
-### Software & Web Developer (2015 – 2021)
+#### Software & Web Developer (2015 – 2021)
 - Developed multiple websites and collaborated on web applications using PHP and MySQL.
 - Built data-driven application features and improved system performance.
 - Worked with distributed teams using digital tools for planning and deployment.
