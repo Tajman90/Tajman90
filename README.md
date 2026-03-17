@@ -32,7 +32,7 @@ When I'm not working with data, I enjoy matching and playing football, reading, 
 ## 🌱 Currently Learning 
 
 - Currently learnig AWS cloud platform to handle large-scale data pipelines and infrastructure.
-   How to develope proficiency in AWS cloud services for data engineering, including data storage (S3), serverless query service(Amazon Athena), data processing (Glue, EMR), and workflow orchestration (Lambda, Step Functions).
+   How to develop proficiency in AWS cloud services for data engineering, including data storage (S3), serverless query service(Amazon Athena), data processing (Glue, EMR), and workflow orchestration (Lambda, Step Functions).
 <!-- - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]-->
 
 ## 🛠️ Technical Skillset
