@@ -8,7 +8,9 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<!--  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a> -->
+
+  <a href="https://www.linkedin.com/in/tajudeen-omotosho-12ba39a9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <!-- <a href="mailto:youremail/destination"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"> </a> -->
   <a href="mailto:taju.omot@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
   
