@@ -14,9 +14,8 @@
   <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
 </a> -->
 
-   <a href="mailto:taju.omot@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
-</a>
+  [![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:taju.omot@gmail.com)
+
 
 </p>
 
