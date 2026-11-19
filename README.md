@@ -60,6 +60,16 @@ flowchart LR
 -	Fraud shifted from online to chip around 2016. Rules built on all history failed on the latest year, which is why I evaluated forward in time and kept only the rule that stayed stable.
 -	Honest limits: reconciliation is internal only (no settlement file), and precision is still low in absolute terms, which is normal for fraud this rare.
 
+## Where audit meets data engineering
+
+| Audit and accounting practice | How I apply it in data work |
+|---|---|
+| Control totals and tie-outs | Automated tests that reconcile counts and amounts across every layer |
+| Subledger to ledger reconciliation | Card-month statements with purchases, refunds and net amounts |
+| Exception reporting and materiality | An exceptions table with high, medium and low severity |
+| Cut-off and period effects | A configurable warm-up date so early-period refunds are rated fairly |
+| Audit trail and effective dating | Type 2 dimensions with validity ranges and point-in-time joins |
+| Independence and confidentiality | No look-ahead in features, and card data reduced to the last 4 digits |
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
