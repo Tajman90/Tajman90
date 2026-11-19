@@ -63,11 +63,9 @@ flowchart LR
 <p>
   <!-- 💡 Go to Shields.io to create your own badges A/B Testing Skill Badg-->
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Databricks-Intermediate-E97627?style=flat&logo=databricks&logoColor=white" alt="Databricks     Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
   <img src="https://img.shields.io/badge/dbt-Intermediate-E97627?style=flat&logo=dbt&logoColor=white" alt="dbt Skill Badge">
-  <img src="https://img.shields.io/badge/Python-Intermediate-4479A1?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
 
 #### Programming & Automation
