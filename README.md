@@ -26,9 +26,9 @@ I am looking for data engineering roles (analytics engineering, data platform, o
  <!--🌐 Replace "your-username" with your actual GitHub username -->
 <!--### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)-->
       
-## 🔭 Projects
+## 🔭 Featured project
 
-- **Project A:** We analysed the key indicators for Pizza Sales data to gain insight into the business performance. We calculated the following: Total Revenue, Average Order Value, Total Pizza Sold, Total Orders and Average Pizza Sold.
+- **💳 Credit Card Reconciliation and Fraud Detection (Databricks + dbt):** We analysed the key indicators for Pizza Sales data to gain insight into the business performance. We calculated the following: Total Revenue, Average Order Value, Total Pizza Sold, Total Orders and Average Pizza Sold.
    Performed data cleaning in Excel, data manipulation with SQL, and developed interactive dashboards in Power BI.  
 - **Project B:** The project gives us an idea on the impact of Corona Virus globally in terms of confirmed cases, deaths reported, number of recoveries and active cases. It also shows how India was affected since the pandemic started. Performed data cleaning, manipulation, and visualization using Python.
  <!-- - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]-->
