@@ -17,7 +17,7 @@
 </p>
 
 ## 🚀 About Me 
- I am a data analyst that specialize in transforming complex data into meaningful insights that support informed business decisions. With strong proficiency in SQL, Excel, and DAX, I focus on robust data preparation and analysis.
+I came from audit and accounting and built an end-to-end data engineering project that treats reconciliation and fraud detection the way an auditor would: control totals between layers, tested exceptions, no hindsight in the features, and a final test year that was scored only once. It processes 13.3 million card transactions through bronze, silver and gold layers with dbt on Databricks, uses a Type 2 slowly changing dimension, and ends with a fraud model that caught 85% of fraud on a held-out year against 60% for the rule baseline, at the same review workload
 
 I also develop clear, dynamic dashboards in Power BI and Tableau that communicate insights effectively to stakeholders. My work is driven by precision, clarity, and a commitment to delivering high-quality analytical solutions.
 
