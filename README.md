@@ -46,8 +46,7 @@ flowchart LR
  <!-- - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]-->
 
 ## 🌱 Results at a glance
-
-##- Area	Result
+- Area	Result
 Scale	13,305,915 transactions, 6,146 cards, 2,000 users (2010 to 2019)
 Quality	63 dbt models and tests pass in a full build, including no overlaps, no gaps and one current row per card in the Type 2 dimension
 Reconciliation	Counts and amounts tie across bronze, silver, gold and the card-month statement. Exceptions carry severities, and 660,049 refunds were matched to purchases
