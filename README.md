@@ -98,7 +98,7 @@ flowchart LR
 - Built data-driven application features and improved system performance.
 - Worked with distributed teams using digital tools for planning and deployment.
 
-  ## Data Engineering Project (2026)
+  ### Data Engineering Project (2026)
 
 ### Credit Card Reconciliation and Fraud Detection Pipeline (Databricks + dbt)
 
