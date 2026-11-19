@@ -30,8 +30,8 @@ I am looking for data engineering roles (analytics engineering, data platform, o
 
 - **💳 Credit Card Reconciliation and Fraud Detection (Databricks + dbt):**
 - An end-to-end medallion pipeline (bronze, silver, gold) built with dbt on Databricks. It cleans 13.3 million card transactions, tracks card history with a Type 2 slowly changing dimension, runs internal reconciliation checks, and compares a fraud model with a rule baseline using time-based evaluation.
+- flowchart LR
 ```mermaid
-flowchart LR
     A[CSV and JSON files<br/>Databricks volume] --> B[Raw Delta tables]
     B --> C[Bronze views]
     C --> D[Silver tables<br/>typed and cleaned]
