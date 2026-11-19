@@ -28,9 +28,18 @@ I am looking for data engineering roles (analytics engineering, data platform, o
       
 ## 🔭 Featured project
 
-- **💳 Credit Card Reconciliation and Fraud Detection (Databricks + dbt):** We analysed the key indicators for Pizza Sales data to gain insight into the business performance. We calculated the following: Total Revenue, Average Order Value, Total Pizza Sold, Total Orders and Average Pizza Sold.
-   Performed data cleaning in Excel, data manipulation with SQL, and developed interactive dashboards in Power BI.  
-- **Project B:** The project gives us an idea on the impact of Corona Virus globally in terms of confirmed cases, deaths reported, number of recoveries and active cases. It also shows how India was affected since the pandemic started. Performed data cleaning, manipulation, and visualization using Python.
+- **💳 Credit Card Reconciliation and Fraud Detection (Databricks + dbt):**
+- An end-to-end medallion pipeline (bronze, silver, gold) built with dbt on Databricks. It cleans 13.3 million card transactions, tracks card history with a Type 2 slowly changing dimension, runs internal reconciliation checks, and compares a fraud model with a rule baseline using time-based evaluation.
+flowchart LR
+    A[CSV and JSON files<br/>Databricks volume] --> B[Raw Delta tables]
+    B --> C[Bronze views]
+    C --> D[Silver tables<br/>typed and cleaned]
+    D --> E[Gold models]
+    E --> F[Fraud rules and model]
+    E --> G[Reconciliation checks]
+    E --> H[Type 2 card dimension]
+  
+
  <!-- - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]-->
 
 ## 🌱 Currently Learning 
