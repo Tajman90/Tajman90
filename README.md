@@ -97,3 +97,14 @@ flowchart LR
 - Developed multiple websites and collaborated on web applications using PHP and MySQL.
 - Built data-driven application features and improved system performance.
 - Worked with distributed teams using digital tools for planning and deployment.
+
+  **Data Engineering Project (2026)**
+
+**Credit Card Reconciliation and Fraud Detection Pipeline (Databricks + dbt)**
+
+- Designed and built an end-to-end medallion pipeline (bronze, silver, gold) in dbt on Databricks, processing 13.3 million card transactions with 63 automated models and tests.
+- Implemented a Type 2 slowly changing dimension with point-in-time joins, and fixed attribute instability that had produced up to 47 versions per card (now 1 to 3 for 4,066 of 4,071 cards).
+- Built reconciliation controls that tie counts and amounts across every layer, an exceptions table with severity ratings, and matching of 660,049 refunds to purchases.
+- Engineered leak-free fraud features and evaluated them forward in time. Found that fraud shifted from online to chip in 2016 and retired rules that stopped working.
+- Trained a gradient-boosted model that caught 85% of fraud on a held-out year against 60% for the best rule, at the same review workload.
+- Documented the project in a README with architecture, findings and limitations, and managed the code in Git and GitHub.
