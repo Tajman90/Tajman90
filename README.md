@@ -17,11 +17,11 @@
 </p>
 
 ## 🚀 About Me 
-I came from audit and accounting and built an end-to-end data engineering project that treats reconciliation and fraud detection the way an auditor would: control totals between layers, tested exceptions, no hindsight in the features, and a final test year that was scored only once. It processes 13.3 million card transactions through bronze, silver and gold layers with dbt on Databricks, uses a Type 2 slowly changing dimension, and ends with a fraud model that caught 85% of fraud on a held-out year against 60% for the rule baseline, at the same review workload
+I started my career in audit and accounting, where the job is to prove that numbers are complete, accurate and explainable. I now apply the same discipline to data engineering: control totals between layers, tested exceptions, point-in-time history, and no hindsight in the analysis.
 
 I also develop clear, dynamic dashboards in Power BI and Tableau that communicate insights effectively to stakeholders. My work is driven by precision, clarity, and a commitment to delivering high-quality analytical solutions.
 
-When I'm not working with data, I enjoy matching and playing football, reading, traveling, mentoring others. I love the "aha!" moment when data reveals something new and useful.
+I am looking for data engineering roles (analytics engineering, data platform, or finance and risk data teams) where that background is an advantage.
 
  <!--🌐 Replace "your-username" with your actual GitHub username -->
 <!--### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)-->
