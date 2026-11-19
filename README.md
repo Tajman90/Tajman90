@@ -72,7 +72,6 @@ flowchart LR
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-4479A1?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/pandas-Intermediate-150458?style=flat&logo=pandas&logoColor=white" alt="pandas Skill Badge">
-  <img src="https://img.shields.io/badge/scikit--learn-Intermediate-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn Skill Badge">
   <img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git&logoColor=white" alt="Git Skill Badge">
   <img src="https://img.shields.io/badge/GitHub-Intermediate-181717?style=flat&logo=github&logoColor=white" alt="GitHub Skill Badge">
   <img src="https://img.shields.io/badge/Jinja%20macros-Intermediate-B41717?style=flat&logo=jinja&logoColor=white" alt="Jinja Skill Badge">
