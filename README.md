@@ -56,9 +56,9 @@ flowchart LR
 <!-- - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]-->
 
 ### Things I figured out along the way
-•	A Type 2 dimension built on a fast-changing risk tier produced a median of 8 versions per card. Moving that attribute out left 4,066 of 4,071 cards with 1 to 3 versions.
-•	Fraud shifted from online to chip around 2016. Rules built on all history failed on the latest year, which is why I evaluated forward in time and kept only the rule that stayed stable.
-•	Honest limits: reconciliation is internal only (no settlement file), and precision is still low in absolute terms, which is normal for fraud this rare.
+-	A Type 2 dimension built on a fast-changing risk tier produced a median of 8 versions per card. Moving that attribute out left 4,066 of 4,071 cards with 1 to 3 versions.
+-	Fraud shifted from online to chip around 2016. Rules built on all history failed on the latest year, which is why I evaluated forward in time and kept only the rule that stayed stable.
+-	Honest limits: reconciliation is internal only (no settlement file), and precision is still low in absolute terms, which is normal for fraud this rare.
 
 ## 🛠️ Technical Skillset
 
